@@ -4,5 +4,4 @@ Através da plataforma figma fizemos um protótipo com o objetivo de reproduzir 
 
 
 
-
-<img width="220" height="161" alt="image" src="https://github.com/user-attachments/assets/dfcb470f-1a78-4144-93b0-71660126dc72" />
+<img src="https://media.tenor.com/lPNvyIdrVtAAAAAM/puppyhacker.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 220px; height: 160px; margin: 0px; width: 219px;" alt="Dog On Computer GIFs | Tenor" jsname="kn3ccd">
